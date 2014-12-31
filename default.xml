@@ -8,7 +8,7 @@
 
   <!-- Main remote for Android -->
   <remote  name="aosp"
-           fetch="https://android.googlesource.com"
+           fetch="git://aosp.tuna.tsinghua.edu.cn/android/"
            review="android-review.googlesource.com" />
 
   <!-- Generic Github remote -->
@@ -16,7 +16,7 @@
            fetch="https://github.com" />
 
   <remote  name="aosp"
-           fetch="https://android.googlesource.com"
+           fetch="git://aosp.tuna.tsinghua.edu.cn/android/"
            review="android-review.googlesource.com" />
 
   <remote  name="cm"
